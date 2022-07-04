@@ -70,7 +70,6 @@ class SportsWalking(Training):
     def get_spent_calories(self) -> float:
         #(0.035 * вес + (средняя_скорость**2 // рост) * 0.029 * вес) * время_тренировки_в_минутах
         return (0.035 * self.weight + (self.get_mean_speed() ** 2 // self.height) * 0.029 * self.weight) * self.duration * 60
-        
 
 
 class Swimming(Training):

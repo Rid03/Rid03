@@ -1,6 +1,3 @@
-from typing_extensions import Self
-
-
 class InfoMessage:
     """Информационное сообщение о тренировке."""
 

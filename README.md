@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rid03
-- 👀 I’m interested in python 
-- 🌱 I’m currently learning python 
+- 👀 I’m interested in everything 
+- 🌱 I’m currently learning sql 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 

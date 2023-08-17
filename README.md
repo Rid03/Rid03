@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rid03
 - 👀 I’m interested in everything 
-- 🌱 I’m currently learning Java/Kotlin
+- 🌱 I’m currently learning Python, Java/Kotlin
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
